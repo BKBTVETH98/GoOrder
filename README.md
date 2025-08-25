@@ -7,3 +7,8 @@
 
 запуск consumer
 `go run consumer.go`
+
+ui kafka localhost:8080
+
+adminer http://localhost:8082
+
